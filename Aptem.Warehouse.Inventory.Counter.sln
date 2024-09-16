@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aptem.Warehouse.Inventory.Counter", "Aptem.Warehouse.Inventory.Counter\Aptem.Warehouse.Inventory.Counter.csproj", "{DECD0098-038D-4783-8D79-F05CA37BECAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aptem.Warehouse.Inventory.Counter.Tests", "Aptem.Warehouse.Inventory.Counter.Tests\Aptem.Warehouse.Inventory.Counter.Tests.csproj", "{190772B5-DB83-4826-8AAB-8DFF8E06F884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECD0098-038D-4783-8D79-F05CA37BECAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECD0098-038D-4783-8D79-F05CA37BECAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECD0098-038D-4783-8D79-F05CA37BECAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECD0098-038D-4783-8D79-F05CA37BECAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190772B5-DB83-4826-8AAB-8DFF8E06F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190772B5-DB83-4826-8AAB-8DFF8E06F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190772B5-DB83-4826-8AAB-8DFF8E06F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190772B5-DB83-4826-8AAB-8DFF8E06F884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273C4271-42F7-483C-8F63-F7B44A657024}
+	EndGlobalSection
+EndGlobal
